@@ -1,6 +1,6 @@
 
-
-Checkout all my AR/VR with IoT Experiments at https://www.hackster.io/RONDAGDAG/projects
+Courtesy of RONDAGDAG
+Checkout his AR/VR with IoT Experiments at https://www.hackster.io/RONDAGDAG/projects
 
 # Socket.IO Chat
 
